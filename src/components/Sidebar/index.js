@@ -29,7 +29,7 @@ const Sidebar = ({ isOpen, toggle }) => {
 					</SidebarLink>
 				</SidebarMenu>
 				<SidebarBtnWrap>
-					<SidebarRoute to="/joinus">Join Us</SidebarRoute>
+					<SidebarRoute to="/">Join Us</SidebarRoute>
 				</SidebarBtnWrap>
 			</SidebarWrapper>
 		</SidebarContainer>
