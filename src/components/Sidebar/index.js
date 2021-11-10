@@ -30,7 +30,7 @@ const Sidebar = ({ isOpen, toggle }) => {
 				</SidebarMenu>
 				<SidebarBtnWrap>
 					<SidebarRoute href="https://groupme.com/join_group/76453291/e6j4ng9s" target="_blank">
-						Join Us
+						Join GroupMe
 					</SidebarRoute>
 				</SidebarBtnWrap>
 			</SidebarWrapper>
