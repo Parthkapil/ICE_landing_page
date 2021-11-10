@@ -23,7 +23,7 @@ export const homeObjThree = {
 	topLine: "",
 	headLine: "Upcoming Event...",
 	description:
-		"Our Events take place, \nevery wednesday at 6:30pm \nin Luddy Hall 2150. \nShow up!! to have fun learning",
+		"Our Events take place, \nevery wednesday at 6:30pm \nin Luddy Hall 2150. \n\n Come Join us!!",
 	buttonLabel: "Join Us!",
 	imgStart: false,
 	img: require("../../images/svg-3.svg").default,

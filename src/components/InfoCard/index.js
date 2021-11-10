@@ -18,7 +18,7 @@ import Parent from "../Card";
 const eventData = [
 	{
 		name: "Learn To Build Landing Page",
-		description: "Learn how to make a Professionla landing page for your business with react.js",
+		description: "Learn how to make a Professional landing page for your business with react.js",
 		Date: "10th, Novemeber",
 		img: Icon1,
 	},
