@@ -2,6 +2,7 @@ import React from "react";
 import Icon1 from "../../images/nick.PNG";
 import Icon2 from "../../images/parth.PNG";
 import Icon3 from "../../images/himanshu.PNG";
+import Icon4 from "../../images/default.svg";
 import {
 	ServicesContainer,
 	ServicesH1,
@@ -31,7 +32,7 @@ const teamData = [
 	{
 		name: "Lavanya Subramanian",
 		designation: "Lead --",
-		img: Icon1,
+		img: Icon4,
 	},
 ];
 
