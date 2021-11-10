@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ICE_landing_page/static/css/main.83829edb.chunk.css",
-    "main.js": "/ICE_landing_page/static/js/main.d965c966.chunk.js",
-    "main.js.map": "/ICE_landing_page/static/js/main.d965c966.chunk.js.map",
+    "main.js": "/ICE_landing_page/static/js/main.41f474a2.chunk.js",
+    "main.js.map": "/ICE_landing_page/static/js/main.41f474a2.chunk.js.map",
     "runtime-main.js": "/ICE_landing_page/static/js/runtime-main.3c09ac86.js",
     "runtime-main.js.map": "/ICE_landing_page/static/js/runtime-main.3c09ac86.js.map",
     "static/js/2.35d24765.chunk.js": "/ICE_landing_page/static/js/2.35d24765.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3c09ac86.js",
     "static/js/2.35d24765.chunk.js",
     "static/css/main.83829edb.chunk.css",
-    "static/js/main.d965c966.chunk.js"
+    "static/js/main.41f474a2.chunk.js"
   ]
 }
